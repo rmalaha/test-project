@@ -30,4 +30,4 @@ All development to itactica_intenso is done on the local machine. [Brunch.io](ht
 
 Brunch is started via the terminal in the Smarterliving folder:
 - Build once with: [brunch build]
-- Use [brunch watch] to build on save
+- Use [brunch watch] to build on save.
