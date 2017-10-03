@@ -1,0 +1,12 @@
+{
+    "name": "itactica/intenso",
+    "type": "magento-module",
+    "license":"OSL-3.0",
+    "description":"Foundation 5.x.x Based template for Magento 1.x",
+    "authors":[
+        {
+            "name":"Jean-Paul Otto",
+            "email":"jean-paul@smarterliving.nl"
+        }
+    ]
+}
